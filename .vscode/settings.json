@@ -1,0 +1,7 @@
+{
+    "zigLanguageClient.path": "/usr/local/bin/zls",
+    "[zig]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "tiehuis.zig"
+      },
+}
