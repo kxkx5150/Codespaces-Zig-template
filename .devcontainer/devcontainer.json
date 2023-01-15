@@ -11,7 +11,7 @@
 		"lorenzopirro.zig-snippets",
 		"vadimcn.vscode-lldb"
 	],
-
+	"postStartCommand":"sudo cp -f /home/zls.json /etc/zls.json",
 	"forwardPorts": [8085],
 	"overrideCommand": false,
 	"containerEnv": {
